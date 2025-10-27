@@ -3,3 +3,5 @@ This is my first text file
 This is my second change
 
 This is my thrd change
+
+This is an update from the Feature branch
